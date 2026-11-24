@@ -22,7 +22,11 @@ Sonra tarayıcıda `http://127.0.0.1:8765`.
 
 `Ehliyet` klasörünü olduğu gibi sıkıştırıp gönder. Karşı taraf `baslat.bat` dosyasına çift tıklar. Python yoksa sayfa `index.html` üzerinden yine açılır.
 
-Her tarayıcı kendi ilerlemesini tutar. Senin doğru ve yanlışların karşı tarafa geçmez. Ortak bir internet adresi henüz yok; klasörü alan kişi kendi bilgisayarında açar.
+Her tarayıcı kendi ilerlemesini tutar. Senin doğru ve yanlışların karşı tarafa geçmez.
+
+Tablet ve telefonda, bilgisayar kapalıyken de açılan adres:
+
+https://enesbilalokumus-glitch.github.io/ehliyet-kocu/
 
 ## Ekranlar
 
